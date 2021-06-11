@@ -8,7 +8,7 @@ This repository contains my solutions for set of exercises in Part 9 of Full Sta
 
 | project | description |
 | ----- | ---- |
-| [typesctipt-exercises](./typescript-exercises) | Simple bmiCalculator and exerciseCaluculator node.js programs
+| [typescript-exercises](./typescript-exercises) | Simple bmiCalculator and exerciseCaluculator node.js programs
 | [typescript-courseinfo](./typescript-courseinfo) | TypeScript version of simple courseinfo web page from part1 (it dispalys information for different courses)|
-| [typesctipt-patientor-backend](./typesctipt-patientor-backend) |  Express backend for simple medical record application |
-| [typesctipt-patientor-frontend](./typesctipt-patientor-frontend) | Simple medical record React application writen with TypeScript
+| [typescript-patientor-backend](./typescript-patientor-backend) |  Express backend for simple medical record application |
+| [typescript-patientor-frontend](./typescript-patientor-frontend) | Simple medical record React application writen with TypeScript
